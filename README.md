@@ -7,3 +7,5 @@ Real-time web-chat using Firebase as DB and authentication via Google.
 - "@emotion/react": "^11.9.0"
 - "@emotion/styled": "^11.8.1"
 - "firebase": "^9.7.0"
+## Demo:
+<img src='./demochat.gif' alt='Demo Chat' />
